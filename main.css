@@ -1,0 +1,22 @@
+/* Question 1 */
+h1{
+    color: blue;
+}
+/* Question 2 */
+.colleges{
+    background-color: #c83;
+}
+/* Question 3 */
+.topics li{
+    list-style: none;
+}
+/* Question 5,6 */
+figure{
+    margin: 20px 20px 20px 20px;
+    display: inline-block;
+}
+/* Question 4 */
+figure img{
+    max-width: 300px;
+}
+/* Question 7 in the index */
